@@ -8,6 +8,7 @@ mongoose
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
+      // MODIF : Ci dessous mis en commentaire car ne marche pas sinon...
       //   useCreateIndex: true,
       //   useFindAndModify: false,
     }
